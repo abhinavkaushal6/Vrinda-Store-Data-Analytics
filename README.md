@@ -1,4 +1,5 @@
-Vrinda-Store-Data-Analytics
+<div align = "center"><h1>Vrinda-Store-Data-Analytics</h1></div>div
+
 This project provides a comprehensive analysis of Vrinda Store's performance for the year 2022, presented through an interactive dashboard built using Microsoft Excel. The goal is to help understand key sales trends and support data-driven decision-making.
 
 The dashboard offers a visual and interactive summary of Vrinda Store's yearly performance, allowing users to filter and analyze data by month, product category, and sales channel. It includes a monthly trend analysis of orders versus total sales amount, gender-wise sales comparison, and a detailed breakdown of return, refund, and cancellation rates. Additionally, it highlights state-wise sales performance by showcasing the top five states, analyzes order distribution across different age groups and genders, and presents a channel-wise breakdown illustrating the contribution of each online platform such as Amazon, Flipkart, Myntra, and others.
