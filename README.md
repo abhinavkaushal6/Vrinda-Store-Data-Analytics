@@ -1,4 +1,4 @@
-<div align = "center"><h1>Vrinda-Store-Data-Analytics</h1></div>div
+<div align = "center"><h1>Vrinda-Store-Data-Analytics</h1></div>
 
 This project provides a comprehensive analysis of Vrinda Store's performance for the year 2022, presented through an interactive dashboard built using Microsoft Excel. The goal is to help understand key sales trends and support data-driven decision-making.
 
